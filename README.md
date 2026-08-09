@@ -1,2 +1,2 @@
-# meusite
+# loja
 minha loja
